@@ -1,6 +1,10 @@
 # Move Sprites Around With Touches
-This whole project is created completely programmatically without .sks files and Xcodes Scene Editor.
 
+![platform-ios](https://img.shields.io/badge/platform-ios-orange.svg)
+![swift-version](https://img.shields.io/badge/swift-3.2-red.svg)
+![lisence](https://img.shields.io/badge/license-MIT-black.svg)
+
+This whole project is created completely programmatically without .sks files and Xcodes Scene Editor.
 ___
 
 ## One Last Note
