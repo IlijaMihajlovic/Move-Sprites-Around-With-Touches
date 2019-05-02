@@ -4,7 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-3.2-red.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-black.svg)
 
-This whole project is created completely programmatically without .sks files and Xcodes Scene Editor.
+This whole project is created completely programmatically without .sks files and Xcodes Scene Editor...
 ___
 
 ## Side Note
